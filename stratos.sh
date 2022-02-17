@@ -1,6 +1,5 @@
 #!/bin/bash
 # wget -q -O stratos.sh https://api.nodes.guru/stratos.sh && chmod +x stratos.sh && sudo /bin/bash stratos.sh
-
 exists()
 {
   command -v "$1" >/dev/null 2>&1
